@@ -1,0 +1,8 @@
+# Buildozer 缓存与产物
+.buildozer/
+bin/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
